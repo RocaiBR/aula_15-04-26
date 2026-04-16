@@ -16,6 +16,13 @@
 - tipo
 - valor
 - ativo
+- contatarPlano()
+- agendarAula()
+- cancelarAula()
+- atualizarStatus()
+- registrarAcesso()
+- receberNotificacao()
+
 
 # **Pagamento**
 - RF03, RF04, RF09
