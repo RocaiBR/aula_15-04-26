@@ -8,6 +8,12 @@
 - endereco
 - rfid
 - status
+- contatarPlano()
+- agendarAula()
+- cancelarAula()
+- atualizarStatus()
+- registrarAcesso()
+- receberNotificacao()
 
 # **Plano**
 - RF01, RF02, RF04
@@ -16,12 +22,7 @@
 - tipo
 - valor
 - ativo
-- contatarPlano()
-- agendarAula()
-- cancelarAula()
-- atualizarStatus()
-- registrarAcesso()
-- receberNotificacao()
+
 
 
 # **Pagamento**
